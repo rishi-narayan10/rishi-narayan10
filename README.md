@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Raksna- Your Own Riding Companion**
 
-- 🌱 I’m currently learning **Flutter,**
+- 🌱 I’m currently learning **Flutter, Mobile App Development**
 
-- 💬 Ask me about **College Admission**
+- 💬 Ask me about **College Admission,Technology Inventions, FrameWorks, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
